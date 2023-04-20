@@ -158,7 +158,7 @@ const Home = () => {
 
                         <div className="github_graph-container">
                             <div className="stats_header_text">
-                                <h2>GitHub Overview</h2>
+                                <h2>GitHub Sample</h2>
                             </div>
                             <div className="repo_file-container">
                                 <div className="repo_left-file-folder">
